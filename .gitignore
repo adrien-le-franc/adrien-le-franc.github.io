@@ -1,3 +1,4 @@
 *.jpg
 *.png
-files/*
+files/www/
+files/smart-grid/
