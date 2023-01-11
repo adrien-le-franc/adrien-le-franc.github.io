@@ -141,3 +141,11 @@ li { text-align: left; }
 debugging flex box tip: 
 background-color: rgb(240,96,204);
 */
+
+a {
+    color: darkblue;
+}
+
+a:visited {
+    color: darkblue;
+}
