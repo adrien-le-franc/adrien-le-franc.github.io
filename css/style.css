@@ -86,10 +86,12 @@ li { text-align: left; }
 
   margin: auto; 
   margin-top: 40px;
-  
+  margin-bottom: 40px;
+
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+
 }
 
 #contact
@@ -133,8 +135,9 @@ li { text-align: left; }
     width: 60vw;
     max-width: 700px;
     margin-top: 40px;
+    margin-bottom: 40px;
   }
-} 
+}
 
 
 /*
